@@ -29,3 +29,4 @@ Luego, encuentra la manera de optimizar el uso de la barra lateral de resultados
  
 [Anterior](@previous)  |  página 2 de 7  |  [Siguiente: Cálculos](@next)
  */
+"hola"

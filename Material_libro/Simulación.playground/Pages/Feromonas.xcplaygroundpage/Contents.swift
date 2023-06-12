@@ -30,10 +30,10 @@ startSimulation()
  - callout(Ejercicio): 
  Intenta modificar estos parámetros para ver cómo afectan la simulación. Observa la rapidez con que los rastros o las áreas de feromonas crecen y se disipan. También observa si hay alguna estructura que perdure.
  */
-//environmentCellSize = 10
-//numberOfAnts = 100
-//pheromoneEvaporationRate = 50
-//pheromoneDepositRate = 400
+environmentCellSize = 10
+numberOfAnts = 100
+pheromoneEvaporationRate = 50
+pheromoneDepositRate = 400
 /*:
 ### Visualización
 

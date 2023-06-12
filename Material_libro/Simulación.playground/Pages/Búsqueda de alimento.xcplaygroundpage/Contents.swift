@@ -39,16 +39,16 @@ startSimulation()
  - callout(Experimento): 
  Intenta modificar estos parámetros, junto con los demás de páginas anteriores, para cambiar la conducta de búsqueda de alimento de la colonia.
  */
-//homePheromoneDepositRate = 100
-//foodPheromoneDepositRate = 100
-//homePheromoneEvaporationRate = 50
-//foodPheromoneEvaporationRate = 50
+homePheromoneDepositRate = 100
+foodPheromoneDepositRate = 100
+homePheromoneEvaporationRate = 50
+foodPheromoneEvaporationRate = 50
 
-//environmentCellSize = 10
-//numberOfAnts = 100
+environmentCellSize = 10
+numberOfAnts = 100
 
-//numberOfAnts = 20
-//antSpeed = 150
+numberOfAnts = 20
+antSpeed = 150
 
 /*:
 [Anterior](@previous)  |  página 5 de 6  |  [Siguiente: Resumen](@next)

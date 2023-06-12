@@ -22,8 +22,8 @@ startSimulation()
 
  Observa qué tan rápido se disipan las hormigas y cuánto espacio de la pantalla ocupan. ¿Qué sucede cuando una hormiga se aleja mucho?
  */
-//numberOfAnts = 2
-//antSpeed = 150
+numberOfAnts = 2
+antSpeed = 150
 /*:
  - callout(Nota): La deambulación de las hormigas se crea usando el *generador de números aleatorios*. Muchas veces, los números aleatorios se usan en simulaciones para aproximarse a la variabilidad que existe en el mundo real. Sin el comportamiento aleatorio, la simulación de hormigas sería *determinista*, es decir que el comportamiento que verías de las hormigas sería idéntico cada vez en un conjunto determinado de valores de parámetros. Esa no sería una correcta aproximación a las hormigas reales.
 
