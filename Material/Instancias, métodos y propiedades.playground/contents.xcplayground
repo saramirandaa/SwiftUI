@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='Instancias'/>
+        <page name='Crear una instancia'/>
+        <page name='Métodos'/>
+        <page name='Seguridad de tipo y métodos'/>
+        <page name='Propiedades'/>
+        <page name='Comparación de propiedades y métodos'/>
+        <page name='Las API (repaso)'/>
+        <page name='¿Para qué sirve esto?'/>
+        <page name='Ayuda rápida'/>
+        <page name='Leer el manual'/>
+        <page name='Clases y structs'/>
+        <page name='Motivos para usar métodos y propiedades'/>
+        <page name='Resumen'/>
+        <page name='Ejercicio: El regreso de BoogieBot'/>
+        <page name='Ejercicio: Poleas'/>
+        <page name='Ejercicio: Identidad'/>
+    </pages>
+</playground>

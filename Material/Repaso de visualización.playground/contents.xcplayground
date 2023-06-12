@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='Gráficos de pastel'/>
+        <page name='Configuración del gráfico de pastel'/>
+        <page name='Más acerca de los colores'/>
+        <page name='Gráficos de barras'/>
+        <page name='Configuración del gráfico de barras'/>
+        <page name='Diagramas'/>
+        <page name='Configuración de diagramas'/>
+        <page name='Resumen'/>
+    </pages>
+</playground>

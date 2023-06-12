@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='Alcancía de cerdito'/>
+        <page name='Límites de los enteros'/>
+        <page name='Documentación y pruebas'/>
+        <page name='Hacer un cambio'/>
+        <page name='Limitaciones de los decimales'/>
+        <page name='Resumen'/>
+    </pages>
+</playground>

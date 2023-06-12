@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='Caracteres'/>
+        <page name='Definir cadenas'/>
+        <page name='Unicode'/>
+        <page name='La consola'/>
+        <page name='Combinar cadenas'/>
+        <page name='Completar espacios en blanco'/>
+        <page name='Interpolación de cadenas'/>
+        <page name='Ver resultados'/>
+        <page name='Más que cadenas'/>
+        <page name='El gran escape'/>
+        <page name='Secuencias de escape'/>
+        <page name='Resumen'/>
+        <page name='Ejercicio: Crear una lista'/>
+        <page name='Ejercicio: Un restaurante'/>
+        <page name='Ejercicio: ¡Jugar, luchar y ganar!'/>
+        <page name='Ejercicio: Mostrar valores'/>
+        <page name='¿Qué puedes imprimir?'/>
+    </pages>
+</playground>
